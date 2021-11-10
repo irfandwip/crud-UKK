@@ -1,0 +1,22 @@
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.exe.config
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.exe
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.pdb
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csprojAssemblyReference.cache
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.Form1.resources
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.Properties.Resources.resources
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csproj.GenerateResource.cache
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csproj.CoreCompileInputs.cache
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.exe
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.pdb
+D:\FLIP CLASSROOM\ukk mas\betamartt\Betamart\Betamart\bin\Debug\betamart.accdb
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\bin\Debug\betamart.accdb
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.exe.config
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.exe
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\bin\Debug\Betamart.pdb
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csprojAssemblyReference.cache
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.Form1.resources
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.Properties.Resources.resources
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csproj.GenerateResource.cache
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.exe
+C:\Users\ASUS\source\ukk mas\betamartt\Betamart\Betamart\obj\Debug\Betamart.pdb
